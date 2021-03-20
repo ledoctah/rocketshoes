@@ -60,10 +60,5 @@
     "eslint-plugin-react-hooks": "4",
     "prettier": "^2.2.1",
     "json-server": "^0.16.3"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app"
-    ]
   }
 }
